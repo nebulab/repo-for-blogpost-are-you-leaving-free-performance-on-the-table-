@@ -64,3 +64,5 @@ end
 
 gem "ruby-vips", "~> 2.1"
 gem "sidekiq", "~> 7.0"
+
+gem "solidus", "~> 3.2"
