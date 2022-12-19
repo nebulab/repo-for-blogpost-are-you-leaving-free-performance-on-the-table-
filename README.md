@@ -1,24 +1,10 @@
-# README
+# Are you leaving free performance on the table?
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the companion repo for a blog post regarding measuring the performances
+of a Solidus store and how the Puma configuration can impact its performance.
 
-Things you may want to cover:
+## Dependencies
 
-* Ruby version
+ruby ~> 3.1
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+rails ~> 7.0
